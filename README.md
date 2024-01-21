@@ -4,3 +4,4 @@
 - oj.uz: [riariti](https://oj.uz/profile/riariti)
 - Codechef: [riariti](https://www.codechef.com/users/riariti)
 - Topcoder: [riariti](https://profiles.topcoder.com/riariti)
+- Vjudge: [riariti](https://vjudge.net/user/riariti)
